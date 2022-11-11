@@ -5,13 +5,17 @@
 Name:
 - Bartosz 😎
 
+Age:
+- 16
+
 From:
 - Poland 🌍
 
 Projects:
-- [Currency-Converter](https://siedemus.github.io/Currency-Converter/) (in progress)
-- 
-- [Personal-Homepage](https://siedemus.github.io/Personal-Homepage/) (in progress)
+- [Currency-Converter](https://siedemus.github.io/Currency-Converter/) (in progress) 👌
+- [Personal-Homepage](https://siedemus.github.io/Personal-Homepage/) (in progress) 💲
+
+
 
 
 
