@@ -3,9 +3,15 @@
 ## Something About me 🧙‍♂️
 
 Name:
-- Bartosz
+- Bartosz 😎
 
 From:
+- Poland 🌍
+
+Projects:
+- Currency-Converter("https://siedemus.github.io/Currency-Converter/")
+
+
 
 <!--
 **Siedemus/siedemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
