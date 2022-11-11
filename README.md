@@ -1,5 +1,12 @@
 # Hello there 👋😀
 
+## Something About me 🧙‍♂️
+
+Name:
+- Bartosz
+
+From:
+
 <!--
 **Siedemus/siedemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
