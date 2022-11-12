@@ -15,7 +15,7 @@ Projects:
 - [Currency-Converter](https://siedemus.github.io/Currency-Converter/) 💲
 - [Personal-Homepage](https://siedemus.github.io/Personal-Homepage/) 🔥
 
-I started programming when I was 13. I'm still learning about front-end technologies such as React or JavaScript in online school $\textcolor{blue}{\text{You}}$ $\textcolor{yellow}{\text{Code}}$.
+I started programming when I was 13. I'm still learning about front-end technologies such as React or JavaScript in online school $\textcolor{blue}{\text{You}}$\textcolor{yellow}{\text{Code}}$.
 In the future I want to be a front-end developer and work on front-end projects. 
 More about me you real soon, but still the no-context otter waits for you. 
 
