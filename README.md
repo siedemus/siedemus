@@ -1,6 +1,6 @@
 # Hello there 👋😀
 
-## Something About me 🧙‍♂️
+## Something About Me 🧙‍♂️
 
 **Name:**
 - Bartosz 👽
@@ -16,6 +16,6 @@
 - **[Personal-Homepage](https://siedemus.github.io/Personal-Homepage/) 🔥**
 
 I started programming when I was 13. I'm still learning about 
-**Front-End Technologies** such as **React** or **JavaScript** in online school $\textcolor{Blue}{\text{You}}$$\textcolor{yellow}{\text{Code}}$.
+**Front-End Technologies** such as **React** or **JavaScript** in online school $\textcolor{Blue}{\text{You}}$ $\textcolor{yellow}{\text{Code}}$.
 In the future I want to be a **Front-End Developer**.
 More about me you real soon, but still the no-context otter waits for you.
