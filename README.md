@@ -16,6 +16,7 @@ Projects:
 - [Personal-Homepage](https://siedemus.github.io/Personal-Homepage/) (in progress) 👌
 
 That is the end of this short description, but still the no-context otter waits for you. 😀🦦
+
 ![otter](https://media2.giphy.com/media/26gssIytJvy1b1THO/200w.webp?cid=ecf05e476cky2rvschu9wu9voivkf23jlmovg1hof47z44j2&rid=200w.webp&ct=g)
 
 
