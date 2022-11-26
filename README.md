@@ -4,7 +4,7 @@
 
 - **My name is Bartosz**
 - **I started programming, when I was 13**
-- **I'm still learning about Front-End Technologies
+- **I'm still learning about Front-End Technologies**
 - **In the future I want to be a Front-End Developer.**
 - **I love otters and ferrets**
 
