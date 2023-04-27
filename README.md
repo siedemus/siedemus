@@ -37,7 +37,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=siedemus&show_icons=true&theme=tokyonight"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siedemus&size_weight=0.5&count_weight=0.5&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siedemus&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight"></img>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
