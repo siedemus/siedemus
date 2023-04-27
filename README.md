@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Technologies 🔧
+## GitHub Analytics ⚙️
 
 <p align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,7 +33,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Streak 🕺
+## GitHub Analytics 📊
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=siedemus&show_icons=true&theme=tokyonight"></img>
