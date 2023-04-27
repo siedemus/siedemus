@@ -16,7 +16,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## GitHub Analytics ⚙️
+## Tech Stack ⚙️
 
 <p align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
