@@ -18,7 +18,7 @@
 
 ## Tech Stack ⚙️
 
-<p align="center" style="background-color:#2e3c52;padding-top:10px">
+<p align="center" style="background-color:#292b3d">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
