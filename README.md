@@ -16,7 +16,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Technologies 🔧
+## GitHub Analytics ⚙️
 
 <p align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,11 +33,11 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Streak 🕺
+## GitHub Analytics 📊
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=siedemus&show_icons=true&theme=tokyonight"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siedemus&size_weight=0.5&count_weight=0.5&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siedemus&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight"></img>
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
