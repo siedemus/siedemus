@@ -6,7 +6,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Smething about me 🧙
+<h2 align="left">Smething about me 🧙</h2>
 
 - 🎓 I'm still learning about frontend technologies
 - ⭐ 2023's Objective: Get to know many new technologies and frontend solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
