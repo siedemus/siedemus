@@ -41,25 +41,3 @@
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## My projects 🎨
-
-<p align="center">
-<a style="font-size:40px;font-weight:bold;" src="https://github.com/Siedemus/currency-converter-react">Currency Converter (React)</a>
-<img height="40" src="https://media.tenor.com/iwyOrAFkRDIAAAAj/pomu-money.giff"></img>
-</p>
-
-<p align="center">
-<a src="https://github.com/Siedemus/Currency-Converter">(Vanilla JS version)</a>
-</p>
-
-<p align="center">
-<a style="font-size:40px;font-weight:bold;" src="https://github.com/Siedemus/to-do-list-react">To Do List (React)</a>
-<img height="40" src="https://media.tenor.com/inlnJtIOIJUAAAAj/clippy-put.gif"></img>
-</p>
-
-<p align="center">
-<a src="https://github.com/Siedemus/To-Do-List">(Vanilla JS version)</a>
-</p>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
