@@ -8,14 +8,6 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## Smething about me 🧙 
-
-- 🎓 I'm still learning about frontend technologies
-- ⭐ 2023's Objective: Get to know many new technologies and frontend solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love lo-fi and rock music, programming, books and ferrets 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ## GitHub Analytics 📊
 
 <p align="center">
