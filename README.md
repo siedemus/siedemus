@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&reversal=false&textBg=false" width="100%"/>
 
-![Kitty](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPs9cir33gB8%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=455d82e6e418c99f36728336ee3fec1c5ea0286ab81d98cb04ea4338e871fd37&ipo=images)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa7%2Fd7%2F20%2Fa7d7203e012e9bb34d902f99a1f64d48.jpg&f=1&nofb=1&ipt=9140db93438cf7f332ccf21cecbe576496a38225e07016b9d1ad6a3bd7c3f93a&ipo=images" width="100%" height="50%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=timeGradient&reversal=false&textBg=false&section=footer" width="100%"/>
