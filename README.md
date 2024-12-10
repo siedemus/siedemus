@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bartosz</h1>
 <h3 align="center">An aspiring magician and a fan of good bass.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me (<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F009%2F767%2F106%2Foriginal%2Fspain-flag-flag-of-spain-illustration-free-vector.jpg&f=1&nofb=1&ipt=9f3d0b3f59a9979ac68212ad4ca58326e4909761d52274f1eb80f8fe9fdbe2fe&ipo=images" alt="css3" width="30" height="15"/>, <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wallpapersafari.com%2F51%2F1%2FnVeBg3.jpg&f=1&nofb=1&ipt=51f962c280867869e04f3922189a94b98c7af47c2cf57e5e399ee6a5133855ae&ipo=images" alt="css3" width="30" height="15"/>, <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F7d%2FNational_Flag_of_Poland.png&f=1&nofb=1&ipt=3d3ad82736687b107be5095722ec5e5698165dde23d49adfcc615ce4325847d7&ipo=images" alt="css3" width="30" height="15"/>):</h3>
 <ul align="left">
   <li><b>bartoszsdev@gmail.com</b></li>
 </ul>
